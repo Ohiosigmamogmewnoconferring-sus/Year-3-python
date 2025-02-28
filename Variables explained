@@ -1,0 +1,16 @@
+#Variables explained
+
+#This is a variable
+name = "Ohiosigmamogmewnoconferring-sus"
+
+#The variable is called "name"
+#The variable is storing a value
+#The value is "Ohiosigmamogmewnoconferring-sus"
+#Variables are used in games alot
+#For example:
+score = 0
+#The value in a variable can change (vary)
+#For example
+score = 100
+
+#Variables always have  single equals sign
