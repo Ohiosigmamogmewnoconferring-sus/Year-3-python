@@ -1,0 +1,31 @@
+#input explained
+#Python has many "built in" functions
+#Here is a list
+#https://docs.python.org/3/library/functions.html
+
+#here is a variable
+name = "bob"
+
+#Howver, not veryone is called bob
+#here is how to allow a user to imput
+#...their name
+name = str(input("Enter your name"))
+print("nice to meet you", name)
+
+age = str(input("Enter your age"))
+print("Wow I cant believe you are", age)
+
+sigma = str(input("Enter your sigma level"))
+print("Wow I cant believe you are level", sigma, "sigma")
+
+house = str(input("Enter your address twin"))
+print("Fr icl ts clm twin. u rlly dont pmo icl r u fr u live in", house)
+
+
+
+
+
+
+
+
+
