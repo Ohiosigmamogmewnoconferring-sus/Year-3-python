@@ -1,0 +1,7 @@
+#Data types
+#C.R.I.B.S
+character = "t"
+realFloat = 1.1
+integer = 1
+boolean =True
+string = "ts"
