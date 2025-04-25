@@ -1,0 +1,13 @@
+kebab_choice = input("Do you want a kebab? (y/n)")
+
+if kebab_choice == "n":
+    print("Are you feeling ok?")
+elif kebab_choice == "y":
+    chilli_choice = input("With chilli sauce? (y/n): ")
+    
+    if chilli_choice == "n":
+        print("Hmm")
+    else:
+        print("Of course you want chilli sauce")
+else:
+    print("Invalid input")
